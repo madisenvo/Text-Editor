@@ -16,14 +16,17 @@ npm install
 npm start
 ```
 
-To use after installation or from the deployment link, click the Install button to download the web application as an icon on your desktop.
+Click the Install button to download the web application as an icon on your desktop.
 
 ## Screenshots
 The following image shows the application's manifest.json file:
+
 ![Screenshot](client/src/images/manifest.png)
 
 The following image shows the application's registered service worker:
+
 ![Screenshot](client/src/images/serviceworker.png)
 
 The following image shows the application's IndexedDB storage:
+
 ![Screenshot](client/src/images/indexeddb.png)
